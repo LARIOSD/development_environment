@@ -1,2 +1,3 @@
 # development_environment
-Custom configuration of different applications and plugins in the linux console.
+*Custom configuration of different applications and plugins in the linux console.
+*Important scripts to facilitate development needs.

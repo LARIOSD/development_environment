@@ -110,3 +110,7 @@ let g:NERDTrimTrailingWhitespace = 1  " Quitar espacios al quitar comentario
 set updatetime=250
 "temas config
 colorschem tender
+
+
+
+
